@@ -1,6 +1,6 @@
 # Written by: 0xGuigui
 # Date: 2025-21-01
-# Description: Génère un Dockerfile pour un serveur Minecraft.
+# Description: Génère un Dockerfile pour un serveur Minecraft
 
 import os
 
